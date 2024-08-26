@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 👋 I'm a mobile developer
+
+### Languages
+![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=kotlin&logoColor=B4068E)
+![Go](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=Go&logoColor=B4068E)
+
+### Social Media
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/erogov86)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=B4068E)](https://www.linkedin.com/in/erogov86)
 
 <!--
 **EugeneRogov/EugeneRogov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
